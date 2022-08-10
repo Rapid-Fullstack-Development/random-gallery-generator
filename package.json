@@ -1,0 +1,17 @@
+{
+  "name": "random-gallery-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nodemon": "^2.0.19"
+  }
+}
